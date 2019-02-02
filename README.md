@@ -1,2 +1,2 @@
 # Feature-engineering
-tiny proj..
+Tiny project for data pre-processing 
